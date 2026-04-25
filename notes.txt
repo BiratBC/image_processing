@@ -1,0 +1,1 @@
+ppm -> a simple, uncompressed, ASCII or binary-based image format used for storing 24-bit color images.
